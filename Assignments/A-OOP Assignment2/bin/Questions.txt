@@ -1,0 +1,13 @@
+Question 9)
+
+What does the application programmer need to do to write a complete application?
+
+The framework includes a center component with four buttons that contains the four directions. 
+The different abstract methods or classes are needed to be implemented if the programmer should be able to complete the project.
+
+Question 10)
+
+What classes did you define to specialize the framework for this application?
+
+We created a class SlidePresenter that extends the abstract class Presenter that extends JFrame and implements ActionListener.
+From this we use our Task10 in the main class to create a SlidePresenter.

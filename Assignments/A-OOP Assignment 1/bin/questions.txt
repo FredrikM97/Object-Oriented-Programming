@@ -1,0 +1,13 @@
+*Question 3:
+java.awt.Color
+java.awt.font
+java.net.URL
+
+Question 10
+Polymorphism in this case is subtyping which means we always know what it does (without knowing explicitly how) so we can always use without understanding how it's implemented.
+
+
+
+
+
+
